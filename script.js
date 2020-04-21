@@ -85,7 +85,7 @@ function contains(selector, text) {
   });
 }
 
-/**
+/***
  * Sets clicked square and also updates the turn.
  */
 function set() {
